@@ -9,6 +9,7 @@ Analisar colunas selecionadas.
 Plotar gráficos com base em colunas selecionadas.
 Exibir dados em uma tabela.
 Salvar resultados da análise em um arquivo de texto.
+
 Dependências
 Python 3.x
 pandas
